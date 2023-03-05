@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Manoj/mlops/mlruns/491527518314561408/02b8a30a1c7e49e0896d9e56b9b408ea/artifacts
+end_time: 1677149687644
+entry_point_name: ''
+experiment_id: '491527518314561408'
+lifecycle_stage: active
+run_id: 02b8a30a1c7e49e0896d9e56b9b408ea
+run_name: loud-flea-773
+run_uuid: 02b8a30a1c7e49e0896d9e56b9b408ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677149680119
+status: 3
+tags: []
+user_id: Manoj

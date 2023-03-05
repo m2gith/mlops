@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Manoj/mlops/mlruns/491527518314561408
+creation_time: 1677149680096
+experiment_id: '491527518314561408'
+last_update_time: 1677149680096
+lifecycle_stage: active
+name: basic_mobile_price_clf

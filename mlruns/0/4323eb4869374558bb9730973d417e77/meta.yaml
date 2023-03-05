@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Manoj/mlops/mlruns/0/4323eb4869374558bb9730973d417e77/artifacts
+end_time: 1677148284772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4323eb4869374558bb9730973d417e77
+run_name: flawless-jay-96
+run_uuid: 4323eb4869374558bb9730973d417e77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677148276890
+status: 4
+tags: []
+user_id: Manoj
